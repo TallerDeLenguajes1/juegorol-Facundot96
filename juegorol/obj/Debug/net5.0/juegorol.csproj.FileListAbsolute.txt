@@ -1,0 +1,16 @@
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\bin\Debug\net5.0\juegorol.exe
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\bin\Debug\net5.0\juegorol.deps.json
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\bin\Debug\net5.0\juegorol.runtimeconfig.json
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\bin\Debug\net5.0\juegorol.runtimeconfig.dev.json
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\bin\Debug\net5.0\juegorol.dll
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\bin\Debug\net5.0\ref\juegorol.dll
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\bin\Debug\net5.0\juegorol.pdb
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\juegorol.csproj.AssemblyReference.cache
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\juegorol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\juegorol.AssemblyInfoInputs.cache
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\juegorol.AssemblyInfo.cs
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\juegorol.csproj.CoreCompileInputs.cache
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\juegorol.dll
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\ref\juegorol.dll
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\juegorol.pdb
+C:\Users\faku_\Source\Repos\juegorol-Facundot96\juegorol\obj\Debug\net5.0\juegorol.genruntimeconfig.cache
